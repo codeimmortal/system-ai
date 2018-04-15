@@ -1,5 +1,7 @@
 #This repo is for those who want to make machone interative with them.
 
+# It is still in development phase . 
+
 # I have develop this for developer.
 #spinx 
   This is the folder i check for spinx for voice to text but i don't find that flexibile .
