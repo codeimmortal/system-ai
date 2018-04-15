@@ -1,3 +1,17 @@
+#This repo is for those who want to make machone interative with them.
+
+# I have develop this for developer.
+#spinx 
+  This is the folder i check for spinx for voice to text but i don't find that flexibile .
+
+#system-ai
+  Where are the code for interactive from you to machine happen.
+   python main.py
+
+I tested for   
+OS -- UBUNTU 16.04
+
+
 # start with speech recongination
 
 python offical
