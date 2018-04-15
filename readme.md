@@ -1,4 +1,4 @@
-#This repo is for those who want to make machone interative with them.
+#This repo is for those who want to make machine interative with them.
 
 # I have develop this for developer.
 #spinx 
